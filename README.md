@@ -18,4 +18,3 @@ There are several methods for using the import/export modules in JavaScript:
 - The Third is "export{properties}" to export and "import{properties} from " to import modules
 
 - In "Airplane.zip": I used the third method to import/export modules. And I dispalyed the status of the Staff of Airplane.
-

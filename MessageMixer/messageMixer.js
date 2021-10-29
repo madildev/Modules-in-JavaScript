@@ -60,5 +60,4 @@ let countCharacter = function (inputString, inputCharacter) {
   // exporting all the functions
   export { countCharacter , capitalizeFirstCharacterOfWords , reverseWord ,
   reverseAllWords , replaceFirstOccurence ,
-  replaceAllOccurrences , encode , palindrome ,
-  pigLatin } ;
+  replaceAllOccurrences , encode , palindrome , pigLatin } ;
